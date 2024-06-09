@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1c13569e-00ae-41e5-8ded-a06adfdeea32/resourceGroups/POS/providers/Microsoft.Web/sites/merkatodopos",
+    "appService.deploySubpath": "."
+}
